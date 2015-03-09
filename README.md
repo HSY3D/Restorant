@@ -15,4 +15,4 @@ In the SQL folder:
 	- query (folder) refers to Q5
 	- update (folder) refers to Q6
 	- view_viewquery (folder) refers to Q7
-	- alter (foler) refers to Q8
+	- alter (folder) refers to Q8
