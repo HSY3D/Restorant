@@ -3,7 +3,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-public class restorant {
+"SELECT R1.RESTNAME FROM REVIEW R2, RESTAURANTS R1 WHERE R2.CID = 'C1' AND R1.RESTNAME = 'The Vintage Windmill' AND R1.RID = R2.RID"
+
+SELECT * FROM REVIEW R2 WHERE R2.CID = 'C1'
+
+
+public class Q2 {
 
 	private static String tableName;
 	private static ArrayList<String> CIDlist = new ArrayList<String>();

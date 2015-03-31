@@ -1,0 +1,1 @@
+The difference in running times with and without the Index does not make a difference for our most complex query since they make use of primary keys. 
